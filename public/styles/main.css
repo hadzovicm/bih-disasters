@@ -1,0 +1,13 @@
+
+
+.navbar-gradient {
+    background: #789DBC;
+}
+.navbar-icon {
+    font-size: 1.5rem;
+    color: white;
+}
+.navbar-brand {
+    color: white !important;
+    font-weight: bold;
+}
